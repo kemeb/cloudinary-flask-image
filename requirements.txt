@@ -1,0 +1,5 @@
+flask
+dotenv
+cloudinary
+cloudinary.uploader
+cloudinary.api
