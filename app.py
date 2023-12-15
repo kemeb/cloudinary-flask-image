@@ -56,7 +56,7 @@ def delete_image():
         result = cloudinary.uploader.destroy(public_id)
         return render_template ('index.html')
     
-    return "Something went wrong, not able to find the URL"
+    return "Something went wrong, not able to find the image"
 
 # Run the app
 if __name__ == '__main__':
