@@ -1,3 +1,4 @@
 flask
 dotenv
 cloudinary
+flask_socketio
